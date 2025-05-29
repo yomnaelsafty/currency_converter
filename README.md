@@ -1,4 +1,4 @@
-💱 #Currency_Converter
+ # Currency_Converter
 
 A simple Python application that converts currencies in real-time using exchange rate data from an API.
 Built with Tkinter for a clean and user-friendly interface.
